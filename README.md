@@ -20,7 +20,7 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prathamesh-Ghatole&show_icons=true&theme=radical)
+![Prathamesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prathamesh-Ghatole&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesh-Ghatole&layout=compact)](https://github.com/Prathamesh-Ghatole/github-readme-stats)
 ### Authors
