@@ -75,3 +75,4 @@ My favorites are **“The Subtle Art of Not Giving a F*ck”** by Mark Manson, a
 ### My GitHub Stats:
 ![Prathamesh's github stats](https://github-readme-stats.vercel.app/api?username=Prathamesh-Ghatole&show_icons=true&hide_border=true)&nbsp;&nbsp;
 ![Prathamesh's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Prathamesh-Ghatole&layout=compact&langs_count=8&hide_border=true)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=varmor.Prathamesh-Ghatole)
