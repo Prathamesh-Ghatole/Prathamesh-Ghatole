@@ -8,30 +8,49 @@ Updated Dec 20 2021
 ### ☎️ Contact:
 📧 **Email**: [prathamesh.s.ghatole@gmail.com](mailto:prathamesh.s.ghatole@gmail.com) | [prathamesh.ghatole.ai@ghrcem.raisoni.net](mailto:prathamesh.ghatole@ieee.org)
 
-<a href="https://www.linkedin.com/in/prathamesh-ghatole/" target="_blank"><img align="left" alt="Prathamesh-Ghatole.github.io" width="22px" src="https://i.imgur.com/E3wQKuX.png" /></a>
+<!-- <a href="https://www.linkedin.com/in/prathamesh-ghatole/" target="_blank"><img align="left" alt="Prathamesh-Ghatole.github.io" width="22px" src="https://i.imgur.com/E3wQKuX.png" /></a>
 <a href="https://twitter.com/PrathameshG69" target="_blank"><img align="left" alt="Prathamesh Ghatole Twitter" width="22px" src="https://i.imgur.com/xuMouim.png" />
 <a href="https://github.com/Prathamesh-Ghatole/" target="_blank"><img align="left" alt="Prathamesh Ghatole | GitHub" width="22px" src="https://i.imgur.com/3k7GBxd.png" />
 <a href="https://instagram.com/snaek.mp3" target="_blank"><img align="left" alt="Prathamesh Ghatole | Instagram" width="22px" src="https://i.imgur.com/n2ERNif.png" />
-<br />
-
+<br>
+ -->
 ---
+### 💫 About Me
 
-### 🔬 Work Experience:
+Hi, I am Prathamesh, an aspiring Data Scientist with a sheer obsession for music & computers. 
+Given my 3+ years of experience in Music Production, playing Piano, & Audio Engineering under my artist alias “SNÆK” & a life-long love for computers; my passion in the world of audio and technology has now convolved into a passion for Data Science and AI for audio involving Information Retrieval, Musicology, Digital Signal Processing, and Social Networks!
 
-- 🎓 President | [Student's Association of Artificial Intelligence, GHRCEM, Pune](https://www.linkedin.com/company/saai-ghrcem)
+As a 2nd-year undergrad, I am currently pursuing degrees in Data Science -> IIT Madras & AI -> GHRCEM Pune respectively.
+
+
+### 🔬 Work Experience
+- 💻 **Contributor | [Google Summer of Code 2022 @ Metabrainz](https://summerofcode.withgoogle.com/programs/2022/projects/OARdCHQq)**
+[20th May 22]
+  - One of the 1,209 globally selected GSoC contributors in 2022.
+  - **Introduction**: Working with Metabrainz on the Music Listening Histories Dataset; a collection of 27 billion music streaming logs from 583k last.fm users with over 555k unique artists, 900k albums, and 7M tracks.
+  - **Goal**: Resolve the dataset to an updated version in the same format as the original, but with incorrect data rectified & invalid data removed.
+  - **Technologies**: Python3, postgresql, apache spark.
+  - **Project Details**: https://summerofcode.withgoogle.com/programs/2022/projects/OARdCHQq 
+- 🎓 **President | [Student's Association of Artificial Intelligence, GHRCEM, Pune](https://www.linkedin.com/company/saai-ghrcem)**
 [20th Nov 21]
-- 🎓 Vice President - Music Club, GH Raisoni College of Engineering & Management, Pune
-[Oct 2021 - Current]
-- 👨‍💼 [Speaker and Project Lead | Ek Bharat Shrestha Bharat Club, GHRCEM Pune](https://ekbharat.gov.in/images/InstituteActivities/Documents/205720210909102002/News%20Report%20on%20Culinary%20Festivals%20of%20Maharashtra%20with%20Opportunity%20to%20Learn%20in%20Culinary%20Practices%20of%20Odisha.pdf) 
+  - Operating Human Resources, Planning, and Execution for all SAAI Events.
+  - Hosted various talks and workshops like “Tech Talks 1.0: Biostatistics w/  Mr. Shariq Mohammed, Boston University”, and “YOU 2.0: The complete personality upliftment program” with 200+ attendees. Cumulative Average Event Ratings: 4.59 / 5.00.
+- 👨‍💼 **Speaker and Project Lead | [Ek Bharat Shrestha Bharat Club, GHRCEM Pune](https://ekbharat.gov.in/images/InstituteActivities/Documents/205720210909102002/News%20Report%20on%20Culinary%20Festivals%20of%20Maharashtra%20with%20Opportunity%20to%20Learn%20in%20Culinary%20Practices%20of%20Odisha.pdf)**
 [4th Sep 21]
+  - Designed and presented 5+ inter-state presentations to Aryan Institute of Technology, Bhubaneshwar, Odisha; while Representing GH Raisoni College of Engineering and Management Pune, Maharashtra.
+- 👔 **Volunteer | IEEE Student's Chapter, GHRCEM Pune**
+  - Organized multiple large-scale inter-college technical events like “CODE STROM”, and participated in the IEEE Asia Pacific  “CLAP” Bootcamp as a Delegate, representing the Hadar Cluster.
+- 🎓 **Vice President - Music Club, GH Raisoni College of Engineering & Management, Pune** [Oct 2021 - Current]
+  - Operated Human Resources, Planning, and execution for 6+ introductory and jamming sessions.
 
 ### 🏫 Education:
 
 - 📕 [Btech. Artificial Intelligence](https://ghrcem.raisoni.net/artificial-intelligence) | G.H. Raisoni College of Engineering & Management, Pune
-CGPA: 8.51 [Feb 2021 - Current]
+SGPA: 9.55 [Feb 2021 - Current]
 - 📘 [BSc. Programming and Data Science](http://onlinedegree.iitm.ac.in/) | Indian Institute of Technology Madras
 Qualified [April 2021]
 Foundational Level [Current]
+SGPA: 8.50
 - 🧑‍🎓 [IEEE CLAP Bootcamp (2021)](https://yp.ieeer10.org/clap/) | IEEE Region 10 yp
 [18th - 25th Sep 2021]
 
@@ -47,17 +66,14 @@ Foundational Level [Current]
 ---
 
 ### 🎯 Skills:
-
-- ⌨ Git, Python, Pandas, Numpy, Regex, Matplotlib, Seaborn, Scikitlearn
-- 💻 Data Analytics with Python, Data Wrangling, Text Mining
-- 🗣 English, Hindi, Marathi & Japanese [Learning]
-- 🤝 Soft Skills: 
-Leadership, Team Management, Public Speaking, Copywriting
-- 🧑‍💼 Misc Skills:
-  - [Audio/Music Production & Mixing: ProTools, FL Studio, Audacity]
-  - [Design/Editing: Adobe Photoshop, Adobe After Effects, Adobe Illustrator, Canva]
-  - [Office/Productivity/Management: Notion, Microsoft Office Suite, Google Workspace]
-  - [Social Media/Marketing: 3yrs of Business Social Media Handling Linkedin/Twitter/Instagram/GitHub/Medium.com w/ [toneden.io](http://toneden.io) / [later.com](http://later.com)]
+- 🛠 **Software Engineering**: Experienced with **Python** & **Git** in **Linux/Windows** environments. Basic experiences with **C++**, **Julia**, & **R**.
+- 💾 **Data Science**: Proficient with **Python, Pandas, Dask, Numpy, Regex, REST API scraping, SQL (Postgresql)**. Various Experiences with **Matplotlib, Seaborn, Plotly, Scikitlearn, NLTK, Gensim**. Basic proficiency with **Microsoft Azure & IBM cloud services**.
+- 👔 **Soft Skills**: Leadership, Team Management, Public Speaking, Copywriting/Creative Writing.
+- 📻 **Audio/Music Production & Mixing**: ProTools, FL Studio, Audacity.
+- 🎨 **Design/Editing**: Adobe Photoshop, Adobe After Effects, Adobe Illustrator, Canva, Filmora.
+- 📮 **Office/Productivity/Management**: Notion, Microsoft Office Suite, Google Workspace.
+- 📸 **Social Media/Marketing**: 3+yrs of Business Social Media Handling Linkedin/Twitter/Instagram/GitHub/Medium.com w/ toneden.io / later.com.
+- 📢 **Languages**: English, Marathi, Hindi (Proficient). Japanese (Elementry)
 
 ---
 
