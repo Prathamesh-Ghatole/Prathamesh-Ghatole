@@ -23,45 +23,57 @@ Given my 3+ years of experience in Music Production, playing Piano, & Audio Engi
 As a 2nd-year undergrad, I am currently pursuing degrees in Data Science -> IIT Madras & AI -> GHRCEM Pune respectively.
 
 
-### 🔬 Work Experience
-- 💻 **Contributor | [Google Summer of Code 2022 @ Metabrainz](https://summerofcode.withgoogle.com/programs/2022/projects/OARdCHQq)**
-[20th May 22]
+## 🔬 Work Experience
+- ### 💻 **Contributor | [Google Summer of Code 2022 @ Metabrainz](https://summerofcode.withgoogle.com/programs/2022/projects/OARdCHQq)** [20th May 22]
   - One of the 1,209 globally selected GSoC contributors in 2022.
   - **Introduction**: Working with Metabrainz on the Music Listening Histories Dataset; a collection of 27 billion music streaming logs from 583k last.fm users with over 555k unique artists, 900k albums, and 7M tracks.
   - **Goal**: Resolve the dataset to an updated version in the same format as the original, but with incorrect data rectified & invalid data removed.
   - **Technologies**: Python3, postgresql, apache spark.
   - **Project Details**: https://summerofcode.withgoogle.com/programs/2022/projects/OARdCHQq 
-- 🎓 **President | [Student's Association of Artificial Intelligence, GHRCEM, Pune](https://www.linkedin.com/company/saai-ghrcem)**
-[20th Nov 21]
+<!-- <br> -->
+
+- ### 🎓 **President | [Student's Association of Artificial Intelligence, GHRCEM, Pune](https://www.linkedin.com/company/saai-ghrcem)** [20th Nov 21]
   - Operating Human Resources, Planning, and Execution for all SAAI Events.
   - Hosted various talks and workshops like “Tech Talks 1.0: Biostatistics w/  Mr. Shariq Mohammed, Boston University”, and “YOU 2.0: The complete personality upliftment program” with 200+ attendees. Cumulative Average Event Ratings: 4.59 / 5.00.
-- 👨‍💼 **Speaker and Project Lead | [Ek Bharat Shrestha Bharat Club, GHRCEM Pune](https://ekbharat.gov.in/images/InstituteActivities/Documents/205720210909102002/News%20Report%20on%20Culinary%20Festivals%20of%20Maharashtra%20with%20Opportunity%20to%20Learn%20in%20Culinary%20Practices%20of%20Odisha.pdf)**
-[4th Sep 21]
+<!-- <br> -->
+
+- ### 👨‍💼 **Speaker and Project Lead | [Ek Bharat Shrestha Bharat Club, GHRCEM Pune](https://ekbharat.gov.in/images/InstituteActivities/Documents/205720210909102002/News%20Report%20on%20Culinary%20Festivals%20of%20Maharashtra%20with%20Opportunity%20to%20Learn%20in%20Culinary%20Practices%20of%20Odisha.pdf)** [4th Sep 21]
   - Designed and presented 5+ inter-state presentations to Aryan Institute of Technology, Bhubaneshwar, Odisha; while Representing GH Raisoni College of Engineering and Management Pune, Maharashtra.
-- 👔 **Volunteer | IEEE Student's Chapter, GHRCEM Pune**
+<!-- <br> -->
+
+- ### 👔 **Volunteer | IEEE Student's Chapter, GHRCEM Pune** [Mar 2021 - Current]
   - Organized multiple large-scale inter-college technical events like “CODE STROM”, and participated in the IEEE Asia Pacific  “CLAP” Bootcamp as a Delegate, representing the Hadar Cluster.
-- 🎓 **Vice President - Music Club, GH Raisoni College of Engineering & Management, Pune** [Oct 2021 - Current]
+<!-- <br> -->
+
+- ### 🎓 **Vice President - Music Club, GH Raisoni College of Engineering & Management, Pune** [Aug 2021 - Nov 2021]
   - Operated Human Resources, Planning, and execution for 6+ introductory and jamming sessions.
 
-### 🏫 Education:
+## 🏫 Education:
 
-- 📕 [Btech. Artificial Intelligence](https://ghrcem.raisoni.net/artificial-intelligence) | G.H. Raisoni College of Engineering & Management, Pune
+- ### 📕 [Btech. Artificial Intelligence](https://ghrcem.raisoni.net/artificial-intelligence) | G.H. Raisoni College of Engineering & Management, Pune
 SGPA: 9.55 [Feb 2021 - Current]
-- 📘 [BSc. Programming and Data Science](http://onlinedegree.iitm.ac.in/) | Indian Institute of Technology Madras
+
+- ### 📘 [BSc. Programming and Data Science](http://onlinedegree.iitm.ac.in/) | Indian Institute of Technology Madras
 Qualified [April 2021]
 Foundational Level [Current]
 SGPA: 8.50
-- 🧑‍🎓 [IEEE CLAP Bootcamp (2021)](https://yp.ieeer10.org/clap/) | IEEE Region 10 yp
-[18th - 25th Sep 2021]
 
-#### 📜 Certificates:
+- ### 🧑‍🎓 [IEEE CLAP Bootcamp (2021)](https://yp.ieeer10.org/clap/) | IEEE Region 10 yp [18th - 25th Sep 2021]
+
+## 📜 Certificates:
 
 - [Introduction to Python Data Analysis](http://coursera.org/verify/C7UQEBMK26DK) | Coursera [Sep 2021]
+- [Data Collection and Processing with Python](https://coursera.org/verify/YYCGSTWDRNW6) | Coursera [Feb 2022]
 - [Applied Plotting, Charting & Data Representation in Python](http://coursera.org/verify/XCW3F8W864ZK) | Coursera [Oct 2021]
-- [Working with BigQuery](http://coursera.com/verify/HXK4YXHGXJTT) | Coursera [Nov 2021]
+- [Applied Text Mining in Python - Coursera](https://coursera.org/verify/B5JC3CZXZAFF) | Coursera [Jan 2022]
+- [Regular Expressions in Python](https://www.coursera.org/verify/QAFMHLVENJBS) | Coursera [Dec 2021]
 - [Data Manipulation with Pandas](https://www.kaggle.com/learn/certification/prathameshghatole/pandas) | Kaggle [Sep 2021]
-- [Data Cleaning](https://www.kaggle.com/learn/certification/prathameshghatole/data-cleaning) | Kaggle[Oct 2021]
+- [Data Cleaning with Python](https://www.kaggle.com/learn/certification/prathameshghatole/data-cleaning) | Kaggle[Oct 2021]
 - [Git from Basics to Advanced: Practical Guide for Developers](http://ude.my/UC-2058f8c0-2019-4ebf-b5f9-93a7862f8925) | Udemy [Jul 2021]
+- [Python Basics](https://coursera.org/verify/XTW6T783SRUC) | Coursera [Feb 2022]
+- [Python Functions, Files, and Dictionaries](https://coursera.org/verify/9YXWBE345T9G/) | Coursera [Jan 2022]
+- [Python Classes and Inheritance](https://coursera.org/verify/447F4NQL694J) | Coursera [Feb 2022]
+- [Working with BigQuery](http://coursera.com/verify/HXK4YXHGXJTT) | Coursera [Nov 2021]
 
 ---
 
