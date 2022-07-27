@@ -105,7 +105,13 @@ My favorites are **“The Subtle Art of Not Giving a F*ck”** by Mark Manson, a
 
 ---
 
-### My GitHub Stats:
-![Prathamesh's github stats](https://github-readme-stats.vercel.app/api?username=Prathamesh-Ghatole&show_icons=true&hide_border=true)&nbsp;&nbsp;
-![Prathamesh's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Prathamesh-Ghatole&layout=compact&langs_count=8&hide_border=true)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=varmor.Prathamesh-Ghatole)
+### 📈 Stats:
+<img src="https://activity-graph.herokuapp.com/graph?username=Prathamesh-Ghatole&bg_color=EAF6F6&color=FF0063&line=66BFBF&point=FF4E81&area=true&hide_border=true">
+
+| <img  src="https://github-readme-stats.vercel.app/api?username=Prathamesh-Ghatole&show_icons=true&bg_color=EAF6F6&title_color=66BFBF&icon_color=FE4880&text_color=FF4E81&locale=en"> | <img src="https://github-readme-streak-stats.herokuapp.com?user=Prathamesh-Ghatole&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=EAF6F6&ring=FF5189&fire=FF5189&currStreakNum=66BFBF&sideNums=66BFBF" alt="Varun More's Streak" /> |
+| :---: | :---: |
+
+<!-- ![Prathamesh's github stats](https://github-readme-stats.vercel.app/api?username=Prathamesh-Ghatole&show_icons=true&hide_border=true)&nbsp;&nbsp;
+![Prathamesh's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Prathamesh-Ghatole&layout=compact&langs_count=8&hide_border=true) -->
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Prathamesh-Ghatole.Prathamesh-Ghatole)
